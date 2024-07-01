@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "f91451eb87754fa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bb3f0af6dc5e5b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69620df08dc10789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Material Complementar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69eb5a7d33534d93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0a3f66b2b74aba3",
+    "type": "split",
+    "children": [
+      {
+        "id": "89f0825d8fbf42f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a1a970caec52f3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bf4acec3a448790",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74e914b682f9d0c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b7a7413dbb3547e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e13524de4fa8ecf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e939dc895b7bf8ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readme.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "730699b12b6816bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "readme.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ebc9af599879022",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58c858c241a50a87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "readme.md.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9a1a970caec52f3d",
+  "lastOpenFiles": [
+    "Figma Links Desafios",
+    "readme.md.md",
+    "Material Complementar.md",
+    "01 - UX/Material Complementar.md",
+    "02- UI/pdf/~$A importancia da Tipografia.pptx",
+    "02- UI/pdf/~$Anatomia dos Tipos.pptx",
+    "02- UI/pdf/~$Entendendo as Cores.pptx",
+    "02- UI/pdf/~$Categoria de Cores.pptx",
+    "02- UI/pdf/Entendendo as Cores.pptx",
+    "02- UI/pdf/Design System.pptx",
+    "02- UI/pdf/Classificação Tipográfica.pptx",
+    "02- UI/pdf/Categoria de Cores.pptx",
+    "02- UI/pdf/Anatomia dos Tipos.pptx",
+    "02- UI/pdf/A importancia da Tipografia.pptx",
+    "01 - ux/pdf/readme.md",
+    "01 - UX/pdf/readme.md",
+    "01 - UX/03 - teorias/Teorias de Ux.md",
+    "01 - UX/02 - ampliando o seu conhecimento/04- sistemas de busca.md",
+    "01 - UX/02 - ampliando o seu conhecimento/03 - SISTEMA DE NAVEGAÇÃO.md",
+    "01 - UX/02 - ampliando o seu conhecimento/02 - Sistemas Da Organização.md",
+    "01 - UX/02 - ampliando o seu conhecimento/01 - arquitetura da informação.md",
+    "01 - UX/01 - Fundamentos de arquitetura/07 - Briefing – Desenvolvimento de Site.md",
+    "01 - UX/01 - Fundamentos de arquitetura/06- moodboard.md",
+    "01 - UX/01 - Fundamentos de arquitetura/05 A Importância da Arquitetura da Informação UX UI e Usabilidade no Design de Produtos Digitais.md",
+    "01 - UX/01 - Fundamentos de arquitetura/04 - Wireframe.md",
+    "01 - UX/01 - Fundamentos de arquitetura/02 -  O que e Usabilidade.md",
+    "01 - UX/01 - Fundamentos de arquitetura/03 - Desing System.md",
+    "01 - UX/01 - Fundamentos de arquitetura/0- Introdução.md",
+    "01 - UX/01 - Fundamentos de arquitetura/01 - UX.md",
+    "01 - ux/Material Complementar.md",
+    "pdf/readme.md",
+    "01 - ux/03 - teorias/Teorias de Ux.md",
+    "readme.md",
+    "01 - ux/02 - ampliando o seu conhecimento/01 - arquitetura da informação.md",
+    "01 - ux/02 - ampliando o seu conhecimento/02 - Sistemas Da Organização.md",
+    "img/Pasted image 20240617151247.png",
+    "01 - ux/02 - ampliando o seu conhecimento/04- sistemas de busca.md",
+    "Pasted image 20240617134817.png",
+    "Usabilidade do usuario/Pasted image 20240514150813.png",
+    "Usabilidade do usuario/Pasted image 20240514152014.png",
+    "Usabilidade do usuario/img/Pasted image 20240512143220.png",
+    "Usabilidade do usuario/img/Pasted image 20240512143113.png",
+    "Usabilidade do usuario/img/gustavocelleguim.png"
+  ]
+}
