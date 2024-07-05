@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69620df08dc10789",
+            "id": "94eb3c120bf2a5a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02- UI/04 - Grid View and list view.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7916ff338d675578",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +32,19 @@
             }
           },
           {
-            "id": "69eb5a7d33534d93",
+            "id": "6ce904b915b4ad41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md.md",
+                "file": "Desafio 01/Figma Desafio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4b7a7413dbb3547e",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md.md",
+                "file": "Desafio 01/Figma Desafio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md.md",
+                "file": "Desafio 01/Figma Desafio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md.md"
+                "file": "Desafio 01/Figma Desafio.md"
               }
             }
           }
@@ -159,45 +171,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a1a970caec52f3d",
+  "active": "6ce904b915b4ad41",
   "lastOpenFiles": [
-    "Figma Links Desafios",
-    "readme.md.md",
+    "04 - Estrategia/03 - Jorney map.md",
+    "04 - Estrategia/pdf/~$Calculo de orçamento de projeto.xlsx",
+    "04 - Estrategia/02 - Definição de Publico Alvo.md",
+    "04 - Estrategia/pdf/~$Journey Map.pptx",
+    "04 - Estrategia/pdf/~$Definindo Meu Público Alvo.pptx",
+    "04 - Estrategia/01 - Técnica de 360 View.md",
+    "img/Pasted image 20240705115214.png",
+    "04 - Estrategia/pdf/~$360 View - Validando uma idéia.pptx",
+    "04 - Estrategia/pdf/360 View - Validando uma idéia.pptx",
+    "04 - Estrategia/pdf/Journey Map.pptx",
+    "04 - Estrategia/pdf/Definindo Meu Público Alvo.pptx",
+    "04 - Estrategia/pdf/Calculo de orçamento de projeto.xlsx",
+    "04 - Estrategia/pdf/Atuar como Freela - Quanto e como cobrar.pptx",
+    "04 - Estrategia/pdf",
     "Material Complementar.md",
+    "Untitled.md",
+    "03 - Ferramentas/UI - Ferramentas.md",
+    "03 - Ferramentas/UX - Ferramentas.md",
+    "02- UI/01-wireframe.md",
+    "02- UI/02 - Wireframe vs prototipo.md",
+    "02- UI/04 - Grid View and list view.md",
+    "02- UI/03 - Tipografia.md",
+    "02- UI/02 - Cores.md",
+    "readme.md.md",
+    "Desafio 01/Figma Desafio.md",
+    "01 - UX/01 - Fundamentos de arquitetura/03 - Desing System.md",
+    "01 - UX/01 - Fundamentos de arquitetura/02 -  O que e Usabilidade.md",
+    "01 - UX/01 - Fundamentos de arquitetura/01 - UX.md",
+    "01 - UX/02 - ampliando o seu conhecimento/01 - arquitetura da informação.md",
+    "01 - UX/02 - ampliando o seu conhecimento/02 - Sistemas Da Organização.md",
+    "01 - UX/02 - ampliando o seu conhecimento/03 - SISTEMA DE NAVEGAÇÃO.md",
+    "01 - UX/02 - ampliando o seu conhecimento/04- sistemas de busca.md",
+    "01 - UX/03 - teorias/Teorias de Ux.md",
     "01 - UX/Material Complementar.md",
-    "02- UI/pdf/~$A importancia da Tipografia.pptx",
-    "02- UI/pdf/~$Anatomia dos Tipos.pptx",
-    "02- UI/pdf/~$Entendendo as Cores.pptx",
-    "02- UI/pdf/~$Categoria de Cores.pptx",
-    "02- UI/pdf/Entendendo as Cores.pptx",
-    "02- UI/pdf/Design System.pptx",
-    "02- UI/pdf/Classificação Tipográfica.pptx",
-    "02- UI/pdf/Categoria de Cores.pptx",
-    "02- UI/pdf/Anatomia dos Tipos.pptx",
-    "02- UI/pdf/A importancia da Tipografia.pptx",
     "01 - ux/pdf/readme.md",
     "01 - UX/pdf/readme.md",
-    "01 - UX/03 - teorias/Teorias de Ux.md",
-    "01 - UX/02 - ampliando o seu conhecimento/04- sistemas de busca.md",
-    "01 - UX/02 - ampliando o seu conhecimento/03 - SISTEMA DE NAVEGAÇÃO.md",
-    "01 - UX/02 - ampliando o seu conhecimento/02 - Sistemas Da Organização.md",
-    "01 - UX/02 - ampliando o seu conhecimento/01 - arquitetura da informação.md",
-    "01 - UX/01 - Fundamentos de arquitetura/07 - Briefing – Desenvolvimento de Site.md",
-    "01 - UX/01 - Fundamentos de arquitetura/06- moodboard.md",
-    "01 - UX/01 - Fundamentos de arquitetura/05 A Importância da Arquitetura da Informação UX UI e Usabilidade no Design de Produtos Digitais.md",
-    "01 - UX/01 - Fundamentos de arquitetura/04 - Wireframe.md",
-    "01 - UX/01 - Fundamentos de arquitetura/02 -  O que e Usabilidade.md",
-    "01 - UX/01 - Fundamentos de arquitetura/03 - Desing System.md",
-    "01 - UX/01 - Fundamentos de arquitetura/0- Introdução.md",
-    "01 - UX/01 - Fundamentos de arquitetura/01 - UX.md",
-    "01 - ux/Material Complementar.md",
-    "pdf/readme.md",
-    "01 - ux/03 - teorias/Teorias de Ux.md",
-    "readme.md",
-    "01 - ux/02 - ampliando o seu conhecimento/01 - arquitetura da informação.md",
-    "01 - ux/02 - ampliando o seu conhecimento/02 - Sistemas Da Organização.md",
     "img/Pasted image 20240617151247.png",
-    "01 - ux/02 - ampliando o seu conhecimento/04- sistemas de busca.md",
     "Pasted image 20240617134817.png",
     "Usabilidade do usuario/Pasted image 20240514150813.png",
     "Usabilidade do usuario/Pasted image 20240514152014.png",
